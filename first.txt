@@ -1,2 +1,2 @@
-This is my first txt file
+This is my first txt
 Updating the text file
